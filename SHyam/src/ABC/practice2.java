@@ -20,6 +20,8 @@ public class practice2 {
 	    driver.manage().window().maximize();
 	    driver.findElement(By.xpath("//button[text()=' New Transaction']")).click();
 	    driver.findElement(By.xpath("//button[text()=' New Transaction']")).click();
+	    driver.findElement(By.xpath("//button[text()=' New Transaction']")).click();
+	    driver.findElement(By.xpath("//button[text()=' New Transaction']")).click();
 	    
 	 
 //	    WebElement MobNo = driver.findElement(By.id("txtMobileNumber_KYC"));
